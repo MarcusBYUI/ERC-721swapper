@@ -1,0 +1,14 @@
+.transfer-container {
+  text-align: center;
+}
+.transfer-container button {
+  cursor: pointer;
+
+  width: 105px;
+  justify-self: end;
+  padding: 5px 0;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+}

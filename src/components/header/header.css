@@ -1,0 +1,20 @@
+.NavBar {
+  display: grid;
+  background-color: black;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  padding: 0 15px;
+}
+.NavBar h3 {
+  color: white;
+}
+.NavBar button {
+  cursor: pointer;
+
+  width: 105px;
+  justify-self: end;
+  padding: 5px 0;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  background-color: white;
+}
